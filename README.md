@@ -2,6 +2,7 @@
 # Simple Java Downloader
 
 A simple java downloader library made with java. 
+NOTE: this is made with chatgpt
 
 ## Installation
 
